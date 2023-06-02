@@ -1,0 +1,22 @@
+pre {
+    background-color: aqua;
+}
+h1 {
+    background-color: aqua;
+    font-style: italic;
+    font-family: cursive;
+}
+p {
+   background-color: bisque;
+}
+h5 {
+    background-color: aqua;
+    font-style: italic;
+    font-family: monospace;
+}
+h3{
+    background-color: aqua;
+    font-size: medium;
+    font-style: italic;
+    font-family: monospace;
+}
